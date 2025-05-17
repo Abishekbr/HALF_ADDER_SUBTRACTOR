@@ -82,3 +82,4 @@ Developed by: RegisterNumber : 212224110002 / B.R.Abishek
 **Output/TIMING Waveform**
 
 **Result:**
+ Thus the given half adder and subtractor is studied and verified in quartus using verilog program.
